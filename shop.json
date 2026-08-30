@@ -1,0 +1,18 @@
+{
+  "name": "Coffeemia",
+  "nameLocal": "காஃபீமியா",
+  "tagline": "SIP · SAVOR · SMILE",
+  "kicker": "Tea · Coffee · Juice · Snacks",
+  "blurb": "A tea shop in Veeramanikkam Nagar for filter coffee that tastes like filter coffee, snacks fried to order, and the Avil Milk people come back for.",
+  "street": "Veeramanikkam Nagar",
+  "locality": "Palayamkottai",
+  "district": "Tirunelveli",
+  "region": "Tamil Nadu",
+  "phones": ["+919994730350", "+919087390811"],
+  "opens": "08:00",
+  "closes": "21:00",
+  "hoursLabel": "Every day, 8.00 am – 9.00 pm",
+  "mapsUrl": "",
+  "mapEmbedUrl": "",
+  "siteUrl": ""
+}

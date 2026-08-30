@@ -1,0 +1,12 @@
+{
+  "name": "coffeemia-website",
+  "version": "1.0.0",
+  "description": "Public website for Coffeemia, Palayamkottai",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node build.js && node server.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}

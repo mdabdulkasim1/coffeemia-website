@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Avil Milk",
+    "local": "அவல் மில்க்",
+    "items": [
+      {
+        "name": "Normal",
+        "ta": "நார்மல்",
+        "price": 100
+      },
+      {
+        "name": "Fruit",
+        "ta": "ஃபுரூட்",
+        "price": 140
+      },
+      {
+        "name": "Nuts and other all",
+        "ta": "நட்ஸ்",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "name": "Snacks",
+    "local": "ஸ்நாக்ஸ்",
+    "items": [
+      {
+        "name": "Samosa",
+        "ta": "சமோசா",
+        "price": 15
+      },
+      {
+        "name": "Vegetable Puffs",
+        "ta": "பப்ஸ்",
+        "price": 20
+      },
+      {
+        "name": "Egg Puffs",
+        "ta": "முட்டை பப்ஸ்",
+        "price": 25
+      },
+      {
+        "name": "Chicken Cutlet",
+        "ta": "சிக்கன் கட்லெட்",
+        "price": 20
+      },
+      {
+        "name": "Chicken Roll",
+        "ta": "சிக்கன் ரோல்",
+        "price": 40
+      },
+      {
+        "name": "Ilai Appam",
+        "ta": "இலை அப்பம்",
+        "price": 20
+      },
+      {
+        "name": "Aval Bonda",
+        "ta": "அவல் போண்டா",
+        "price": 20
+      },
+      {
+        "name": "Pazha Bajji",
+        "ta": "பழ பஜ்ஜி",
+        "price": 20
+      }
+    ]
+  },
+  {
+    "name": "Tea",
+    "local": "டீ",
+    "items": [
+      {
+        "name": "Tea",
+        "ta": "டீ",
+        "price": 15
+      },
+      {
+        "name": "Masala Tea",
+        "ta": "மசாலா டீ",
+        "price": 20
+      },
+      {
+        "name": "Ginger Tea",
+        "ta": "இஞ்சி டீ",
+        "price": 20
+      },
+      {
+        "name": "Sulaimani",
+        "ta": "சுலைமானி",
+        "price": 15
+      },
+      {
+        "name": "Green Tea",
+        "ta": "கிரீன் டீ",
+        "price": 15
+      }
+    ]
+  },
+  {
+    "name": "Coffee",
+    "local": "காபி",
+    "items": [
+      {
+        "name": "Filter Coffee",
+        "ta": "பில்டர் காபி",
+        "price": 25
+      },
+      {
+        "name": "Black Coffee",
+        "ta": "பிளாக் காபி",
+        "price": 20
+      },
+      {
+        "name": "Hot Chocolate / Boost",
+        "ta": "பூஸ்ட்",
+        "price": 30
+      },
+      {
+        "name": "Cold Coffee",
+        "ta": "கோல்ட் காபி",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "name": "Fresh Juices",
+    "local": "ஜூஸ்",
+    "items": [
+      {
+        "name": "Lime Juice / Mint Lime",
+        "ta": "எலுமிச்சை",
+        "price": 30
+      },
+      {
+        "name": "Seasonal Fruit Juice",
+        "ta": "பழச்சாறு",
+        "price": 50
+      },
+      {
+        "name": "Milkshakes",
+        "ta": "மில்க்ஷேக்",
+        "price": 70
+      },
+      {
+        "name": "Rose Milk",
+        "ta": "ரோஸ் மில்க்",
+        "price": 30
+      }
+    ]
+  }
+]
