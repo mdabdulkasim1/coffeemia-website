@@ -78,6 +78,7 @@ const html = `<!doctype html>
 <meta property="og:title" content="${esc(shop.name)} — ${esc(shop.kicker)}">
 <meta property="og:description" content="${esc(shop.blurb)}">
 <meta property="og:type" content="website">
+${shop.siteUrl ? `<meta property="og:url" content="${esc(shop.siteUrl)}">\n<link rel="canonical" href="${esc(shop.siteUrl)}">` : ""}
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%98%95%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -165,4 +166,5 @@ const html = `<!doctype html>
 fs.writeFileSync(path.join(__dirname, "index.html"), html);
 const items = MENU.reduce((n, c) => n + c.items.length, 0);
 console.log(`built index.html — ${MENU.length} categories, ${items} items`);
-if (!shop.mapsUrl) console.warn("  note: shop.json has no mapsUrl/mapEmbedUrl yet — the map shows a placeholder");
+if (!shop.mapsUrl) console.warn("  note: shop.json has no mapsUrl yet — the Google Maps button is hidden");
+if (!shop.mapEmbedUrl) console.warn("  note: shop.json has no mapEmbedUrl yet — the map shows a placeholder");

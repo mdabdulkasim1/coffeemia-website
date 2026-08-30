@@ -8,11 +8,14 @@
   "locality": "Palayamkottai",
   "district": "Tirunelveli",
   "region": "Tamil Nadu",
-  "phones": ["+919994730350", "+919087390811"],
+  "phones": [
+    "+919994730350",
+    "+919087390811"
+  ],
   "opens": "08:00",
   "closes": "21:00",
   "hoursLabel": "Every day, 8.00 am – 9.00 pm",
-  "mapsUrl": "",
-  "mapEmbedUrl": "",
-  "siteUrl": ""
+  "mapsUrl": "https://maps.app.goo.gl/kbrchYetN9XvR1Eh7",
+  "mapEmbedUrl": "https://www.google.com/maps?q=Coffeemia%2C%20Veeramanikkam%20Nagar%2C%20Palayamkottai%2C%20Tirunelveli%2C%20Tamil%20Nadu&z=17&output=embed",
+  "siteUrl": "https://mdabdulkasim1.github.io/coffeemia-website/"
 }
