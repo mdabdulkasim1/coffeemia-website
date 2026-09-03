@@ -42,12 +42,27 @@
       {
         "name": "Chicken Cutlet",
         "ta": "சிக்கன் கட்லெட்",
-        "price": 20
+        "price": 30
       },
       {
         "name": "Chicken Roll",
         "ta": "சிக்கன் ரோல்",
         "price": 40
+      },
+      {
+        "name": "Popcorn Chicken",
+        "ta": "பாப்கார்ன் சிக்கன்",
+        "price": 120
+      },
+      {
+        "name": "Veg Sandwich",
+        "ta": "வெஜ் சாண்ட்விச்",
+        "price": 50
+      },
+      {
+        "name": "Chicken Sandwich",
+        "ta": "சிக்கன் சாண்ட்விச்",
+        "price": 70
       },
       {
         "name": "Ilai Appam",
