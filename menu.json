@@ -127,8 +127,18 @@
         "price": 20
       },
       {
+        "name": "Cappuccino / Latte",
+        "ta": "கபுச்சினோ / லாட்டே",
+        "price": 20
+      },
+      {
         "name": "Hot Chocolate / Boost",
         "ta": "பூஸ்ட்",
+        "price": 30
+      },
+      {
+        "name": "Cappuccino Iced Coffee",
+        "ta": "கபுச்சினோ ஐஸ்டு காபி",
         "price": 30
       },
       {
