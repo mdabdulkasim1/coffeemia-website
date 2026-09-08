@@ -113,6 +113,37 @@
     ]
   },
   {
+    "name": "Special Tea",
+    "ta": "ஸ்பெஷல் டீ",
+    "items": [
+      {
+        "name": "Signature Tea",
+        "ta": "சிக்னேச்சர் டீ",
+        "price": 25
+      },
+      {
+        "name": "Elachi Tea",
+        "ta": "ஏலக்காய் டீ",
+        "price": 25
+      },
+      {
+        "name": "Chocolate Tea",
+        "ta": "சாக்லேட் டீ",
+        "price": 25
+      },
+      {
+        "name": "Classic Black Tea",
+        "ta": "கிளாசிக் பிளாக் டீ",
+        "price": 25
+      },
+      {
+        "name": "Hotel Dust Tea",
+        "ta": "ஹோட்டல் டஸ்ட் டீ",
+        "price": 25
+      }
+    ]
+  },
+  {
     "name": "Coffee",
     "local": "காபி",
     "items": [
