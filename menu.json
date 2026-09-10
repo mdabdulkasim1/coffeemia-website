@@ -186,7 +186,7 @@
       {
         "name": "Seasonal Fruit Juice",
         "ta": "பழச்சாறு",
-        "price": 50
+        "price": 60
       },
       {
         "name": "Milkshakes",
@@ -196,7 +196,7 @@
       {
         "name": "Rose Milk",
         "ta": "ரோஸ் மில்க்",
-        "price": 40
+        "price": 50
       }
     ]
   }
