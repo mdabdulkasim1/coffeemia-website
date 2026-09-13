@@ -168,6 +168,11 @@
         "price": 30
       },
       {
+        "name": "Banana Coffee",
+        "ta": "வாழைப்பழ காபி",
+        "price": 40
+      },
+      {
         "name": "Cold Coffee",
         "ta": "கோல்ட் காபி",
         "price": 50
