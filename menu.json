@@ -4,25 +4,175 @@
     "local": "அவல் மில்க்",
     "items": [
       {
-        "name": "Normal",
-        "ta": "நார்மல்",
+        "name": "Normal Avil Milk",
+        "ta": "நார்மல் அவல் மில்க்",
         "price": 100
       },
       {
-        "name": "Fruit",
-        "ta": "ஃபுரூட்",
+        "name": "Fruit Avil Milk",
+        "ta": "பழம் அவல் மில்க்",
         "price": 140
       },
       {
-        "name": "Nuts and other all",
-        "ta": "நட்ஸ்",
+        "name": "Nuts & Mixed Avil Milk",
+        "ta": "நட்ஸ் அவல் மில்க்",
         "price": 180
       }
     ]
   },
   {
+    "name": "Signature Mocktails",
+    "local": "சிறப்பு மாக்டெயில்ஸ்",
+    "items": [
+      {
+        "name": "Blue Lagoon Mocktail",
+        "ta": "",
+        "price": 99
+      },
+      {
+        "name": "Virgin Mojito",
+        "ta": "",
+        "price": 99
+      },
+      {
+        "name": "Mango Passion Cooler",
+        "ta": "",
+        "price": 99
+      },
+      {
+        "name": "Pineapple Ginger Fizz",
+        "ta": "",
+        "price": 99
+      },
+      {
+        "name": "Strawberry Basil Sparkler",
+        "ta": "",
+        "price": 99
+      }
+    ]
+  },
+  {
+    "name": "Fresh Juices & Milkshakes",
+    "local": "புதிய ஜூஸ் & மில்க்ஷேக்கள்",
+    "items": [
+      {
+        "name": "Lemon / Mint Juice",
+        "ta": "எலுமிச்சை / புதினா ஜூஸ்",
+        "price": 30
+      },
+      {
+        "name": "Fresh Fruit Juice",
+        "ta": "சீசன் பழ ஜூஸ்",
+        "price": 50
+      },
+      {
+        "name": "Milkshake",
+        "ta": "மில்க்ஷேக்",
+        "price": 70
+      },
+      {
+        "name": "Rose Milk",
+        "ta": "ரோஸ் மில்க்",
+        "price": 40
+      }
+    ]
+  },
+  {
+    "name": "Tea Selection",
+    "local": "தேநீர் வகைகள்",
+    "items": [
+      {
+        "name": "Tea",
+        "ta": "தேநீர்",
+        "price": 20
+      },
+      {
+        "name": "Ginger Tea",
+        "ta": "இஞ்சி தேநீர்",
+        "price": 25
+      },
+      {
+        "name": "Sulaimani Tea",
+        "ta": "சுலைமானி தேநீர்",
+        "price": 15
+      },
+      {
+        "name": "Green Tea",
+        "ta": "கிரீன் டீ",
+        "price": 15
+      },
+      {
+        "name": "Protein Tea",
+        "ta": "புரோட்டீன் டீ",
+        "price": 40
+      },
+      {
+        "name": "Sangu Poo Tea (Butterfly Pea Tea)",
+        "ta": "சங்கு பூ டீ",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "name": "Coffee Corner",
+    "local": "காபி வகைகள்",
+    "items": [
+      {
+        "name": "Filter Coffee",
+        "ta": "பில்டர் காபி",
+        "price": 25
+      },
+      {
+        "name": "Black Coffee",
+        "ta": "பிளாக் காபி",
+        "price": 20
+      },
+      {
+        "name": "Cappuccino / Latte",
+        "ta": "கப்புச்சினோ / லாட்டே",
+        "price": 25
+      },
+      {
+        "name": "Hot Chocolate / Boost",
+        "ta": "ஹாட் சாக்லேட் / பூஸ்ட்",
+        "price": 30
+      },
+      {
+        "name": "Coffeemia Special Iced Cappuccino",
+        "ta": "காஃபீமியா ஸ்பெஷல் ஐஸ்டு கப்புச்சினோ",
+        "price": 30
+      },
+      {
+        "name": "Banana Coffee",
+        "ta": "வாழைப்பழ காபி",
+        "price": 40
+      },
+      {
+        "name": "Cold Coffee",
+        "ta": "கோல்ட் காபி",
+        "price": 50
+      },
+      {
+        "name": "Rose Milk Coffee",
+        "ta": "ரோஸ் மில்க் காபி",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "name": "Special Drinks",
+    "local": "சிறப்பு பானங்கள்",
+    "items": [
+      {
+        "name": "Coco-Mia – Coconut Affogato",
+        "ta": "கோகோ-மியா (தேங்காய் அஃபோகாட்டோ)",
+        "price": 199
+      }
+    ]
+  },
+  {
     "name": "Snacks",
-    "local": "ஸ்நாக்ஸ்",
+    "local": "தின்பண்டங்கள்",
     "items": [
       {
         "name": "Samosa",
@@ -30,12 +180,12 @@
         "price": 15
       },
       {
-        "name": "Vegetable Puffs",
-        "ta": "பப்ஸ்",
+        "name": "Veg Puff",
+        "ta": "வெஜ் பப்ஸ்",
         "price": 20
       },
       {
-        "name": "Egg Puffs",
+        "name": "Egg Puff",
         "ta": "முட்டை பப்ஸ்",
         "price": 25
       },
@@ -50,157 +200,39 @@
         "price": 40
       },
       {
-        "name": "Popcorn Chicken",
-        "ta": "பாப்கார்ன் சிக்கன்",
-        "price": 120
-      },
-      {
-        "name": "Veg Sandwich",
-        "ta": "வெஜ் சாண்ட்விச்",
-        "price": 50
-      },
-      {
         "name": "Chicken Sandwich",
         "ta": "சிக்கன் சாண்ட்விச்",
         "price": 70
       },
       {
-        "name": "Ilai Appam",
-        "ta": "இலை அப்பம்",
+        "name": "Chicken Popcorn",
+        "ta": "சிக்கன் பாப்கார்ன்",
+        "price": 120
+      },
+      {
+        "name": "Ela Ada",
+        "ta": "இலை அட",
         "price": 20
       },
       {
-        "name": "Aval Bonda",
+        "name": "Avil Bonda",
         "ta": "அவல் போண்டா",
         "price": 20
       },
       {
-        "name": "Pazha Bajji",
-        "ta": "பழ பஜ்ஜி",
+        "name": "Pazham Pori",
+        "ta": "பழம்போரி",
         "price": 20
       }
     ]
   },
   {
-    "name": "Tea",
-    "local": "டீ",
+    "name": "Combo",
+    "local": "காம்போ",
     "items": [
       {
-        "name": "Tea",
-        "ta": "டீ",
-        "price": 20
-      },
-      {
-        "name": "Masala Tea",
-        "ta": "மசாலா டீ",
-        "price": 25
-      },
-      {
-        "name": "Ginger Tea",
-        "ta": "இஞ்சி டீ",
-        "price": 25
-      },
-      {
-        "name": "Sulaimani",
-        "ta": "சுலைமானி",
-        "price": 15
-      },
-      {
-        "name": "Green Tea",
-        "ta": "கிரீன் டீ",
-        "price": 15
-      }
-    ]
-  },
-  {
-    "name": "Special Tea",
-    "ta": "ஸ்பெஷல் டீ",
-    "items": [
-      {
-        "name": "Coffeemia Signature Tea",
-        "ta": "காஃபீமியா சிக்னேச்சர் டீ",
-        "price": 25
-      },
-      {
-        "name": "Elachi Tea",
-        "ta": "ஏலக்காய் டீ",
-        "price": 25
-      },
-      {
-        "name": "Chocolate Tea",
-        "ta": "சாக்லேட் டீ",
-        "price": 25
-      },
-      {
-        "name": "Classic Black Tea",
-        "ta": "கிளாசிக் பிளாக் டீ",
-        "price": 25
-      }
-    ]
-  },
-  {
-    "name": "Coffee",
-    "local": "காபி",
-    "items": [
-      {
-        "name": "Filter Coffee",
-        "ta": "பில்டர் காபி",
-        "price": 25
-      },
-      {
-        "name": "Black Coffee",
-        "ta": "பிளாக் காபி",
-        "price": 20
-      },
-      {
-        "name": "Cappuccino / Latte",
-        "ta": "கபுச்சினோ / லாட்டே",
-        "price": 25
-      },
-      {
-        "name": "Hot Chocolate / Boost",
-        "ta": "பூஸ்ட்",
-        "price": 30
-      },
-      {
-        "name": "Coffeemia Special Iced Cappuccino",
-        "ta": "காஃபீமியா ஸ்பெஷல் ஐஸ்டு கபுச்சினோ",
-        "price": 30
-      },
-      {
-        "name": "Banana Coffee",
-        "ta": "வாழைப்பழ காபி",
-        "price": 40
-      },
-      {
-        "name": "Cold Coffee",
-        "ta": "கோல்ட் காபி",
-        "price": 50
-      }
-    ]
-  },
-  {
-    "name": "Fresh Juices",
-    "local": "ஜூஸ்",
-    "items": [
-      {
-        "name": "Lime Juice / Mint Lime",
-        "ta": "எலுமிச்சை",
-        "price": 30
-      },
-      {
-        "name": "Seasonal Fruit Juice",
-        "ta": "பழச்சாறு",
-        "price": 60
-      },
-      {
-        "name": "Milkshakes",
-        "ta": "மில்க்ஷேக்",
-        "price": 70
-      },
-      {
-        "name": "Rose Milk",
-        "ta": "ரோஸ் மில்க்",
+        "name": "Irani Chai + Osmania Biscuits",
+        "ta": "இரானி சாய் + ஒஸ்மானியா பிஸ்கட்ஸ்",
         "price": 50
       }
     ]
